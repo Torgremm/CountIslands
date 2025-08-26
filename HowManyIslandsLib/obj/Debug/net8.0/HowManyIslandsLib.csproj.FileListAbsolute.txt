@@ -1,0 +1,11 @@
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\bin\Debug\net8.0\HowManyIslandsLib.deps.json
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\bin\Debug\net8.0\HowManyIslandsLib.dll
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\bin\Debug\net8.0\HowManyIslandsLib.pdb
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\obj\Debug\net8.0\HowManyIslandsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\obj\Debug\net8.0\HowManyIslandsLib.AssemblyInfoInputs.cache
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\obj\Debug\net8.0\HowManyIslandsLib.AssemblyInfo.cs
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\obj\Debug\net8.0\HowManyIslandsLib.csproj.CoreCompileInputs.cache
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\obj\Debug\net8.0\HowManyIslandsLib.dll
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\obj\Debug\net8.0\refint\HowManyIslandsLib.dll
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\obj\Debug\net8.0\HowManyIslandsLib.pdb
+C:\Users\tormo\Documents\repo\HowManyIslands\HowManyIslandsLib\obj\Debug\net8.0\ref\HowManyIslandsLib.dll
