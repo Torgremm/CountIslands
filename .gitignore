@@ -56,3 +56,5 @@ nunit-*.xml
 # Added by cargo
 
 /target
+# Ignore generated tests
+/test
